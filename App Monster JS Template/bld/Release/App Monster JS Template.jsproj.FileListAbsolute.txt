@@ -1,0 +1,15 @@
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Release\resources.pri
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Release\AppxManifest.xml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Release\App Monster JS Template.build.appxrecipe
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Release\AppMonsters.winmd
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\priconfig.xml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\layout.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\resources.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\pri.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\LanguageQualifiers.txt
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\ProjectArchitectures.txt
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\App Monster JS Template.jsprojResolveAssemblyReference.cache
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\priconfig.xml.intermediate
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\layout.resfiles.intermediate
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\resources.resfiles.intermediate
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Release\pri.resfiles.intermediate

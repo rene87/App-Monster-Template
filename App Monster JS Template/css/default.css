@@ -1,0 +1,100 @@
+﻿@font-face
+        {
+            font-family: FreckleFace-Regular;
+            src: url('/fonts/FreckleFace-Regular.ttf');
+        }
+
+
+body {
+
+}
+
+.appGrid {
+    width: 100vw;
+    height: 100vh;
+    display: -ms-grid;
+    -ms-grid-columns: 120px 1fr;
+    -ms-grid-rows: 140px 1fr;
+}
+
+
+#name {
+     font-family:FreckleFace-Regular;
+     font-size:22px;
+     text-align:left;
+}
+
+.headerClass {
+    font-family:FreckleFace-Regular;
+    -ms-grid-column: 2;
+    -ms-grid-row: 1;
+    padding-top:30px;
+}
+
+.mainContent {
+    -ms-grid-column: 2;
+    -ms-grid-row: 2;
+    display:-ms-grid;
+    -ms-grid-columns: 300px 1fr;
+}
+
+#monsterTemplate {
+    -ms-grid-column: 1;
+    -ms-grid-row: 1;
+    font-size: 15px;
+}
+
+#gameContent {
+    -ms-grid-column:2;
+    -ms-grid-row:1;
+    text-align:center;
+    font-size:30px;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+    .appGrid {
+    width: 100vw;
+    height: 100vh;
+    display: -ms-grid;
+    -ms-grid-columns: 1fr;
+    -ms-grid-rows: 140px 1fr;
+}
+
+
+#name {
+     font-family:FreckleFace-Regular;
+     font-size:22px;
+     text-align:left;
+}
+
+.headerClass {
+    font-family:FreckleFace-Regular;
+    -ms-grid-row: 1;
+    /*padding-top:30px;*/
+}
+
+.mainContent {
+    -ms-grid-row: 2;
+    display:-ms-grid;
+    -ms-grid-columns: 1fr;
+}
+
+#monsterTemplate {
+    -ms-grid-column: 1;
+    -ms-grid-row: 1;
+    font-size: 15px;
+}
+
+#gameContent {
+    display:none;
+}
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

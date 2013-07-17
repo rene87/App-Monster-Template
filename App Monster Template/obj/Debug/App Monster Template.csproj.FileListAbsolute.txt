@@ -1,0 +1,38 @@
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\App Monster Template.exe
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\App Monster Template.pdb
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\resources.pri
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\AppxManifest.xml
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\App Monster Template.build.appxrecipe
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App.g.i.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App.g.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\StandardStyles.g.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\MainPage.g.i.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\MainPage.g.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\XamlTypeInfo.g.cs
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\StandardStyles.xaml
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\MainPage.xaml
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App.xaml
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App Monster Template.exe
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App Monster Template.pdb
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\priconfig.xml
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\layout.resfiles
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\resources.resfiles
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\pri.resfiles
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\LanguageQualifiers.txt
+c:\users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\ProjectArchitectures.txt
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\AppMonsters.winmd
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\AppMonsters.pdb
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\AppMonsters.pri
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\App Monster Template.csprojResolveAssemblyReference.cache
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\Assets\Fonts\FreckleFace-Regular.ttf
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\Styles.g.i.cs
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\Styles.g.cs
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\Common\Styles.xaml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\About.g.i.cs
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\About.g.cs
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\About.xaml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\priconfig.xml.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\layout.resfiles.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\resources.resfiles.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster Template\obj\Debug\pri.resfiles.intermediate
