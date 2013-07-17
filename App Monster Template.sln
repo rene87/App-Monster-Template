@@ -6,18 +6,6 @@ EndProject
 Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "App Monster JS Template", "App Monster JS Template\App Monster JS Template.jsproj", "{54F993CB-5A2C-444E-BC1C-C2CDD5BCB8B9}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://appmonsters.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = App\u0020Monster\u0020Template\\App\u0020Monster\u0020CSharp\u0020Template.csproj
-		SccProjectName1 = App\u0020Monster\u0020Template
-		SccLocalPath1 = App\u0020Monster\u0020Template
-		SccProjectUniqueName2 = App\u0020Monster\u0020JS\u0020Template\\App\u0020Monster\u0020JS\u0020Template.jsproj
-		SccProjectName2 = App\u0020Monster\u0020JS\u0020Template
-		SccLocalPath2 = App\u0020Monster\u0020JS\u0020Template
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM

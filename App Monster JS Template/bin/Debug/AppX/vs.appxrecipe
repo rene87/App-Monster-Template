@@ -13,60 +13,60 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2013-07-04T08:46:07.550</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\components\AppMonsters.winmd">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\components\AppMonsters.winmd">
       <PackagePath>AppMonsters.winmd</PackagePath>
       <Modified>2013-07-04T08:38:24.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\default.html">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\default.html">
       <PackagePath>default.html</PackagePath>
       <Modified>2013-07-04T08:46:07.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\fonts\FreckleFace-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\fonts\FreckleFace-Regular.ttf">
       <PackagePath>fonts\FreckleFace-Regular.ttf</PackagePath>
       <Modified>2013-04-15T17:34:15.693</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\images\AppMonsterTemplateAvatar.png">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\images\AppMonsterTemplateAvatar.png">
       <PackagePath>images\AppMonsterTemplateAvatar.png</PackagePath>
       <Modified>2013-04-25T09:32:15.465</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T09:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T09:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T09:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-07-26T09:30:08.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\js\default.js">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2013-07-04T08:46:07.023</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\css\default.css">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-05-30T18:21:18.349</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2013-07-04T08:46:07.454</Modified>
+      <Modified>2013-07-17T17:16:55.572</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

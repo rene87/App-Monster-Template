@@ -1,1 +1,1 @@
-C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\App Monster JS Template.jsproj;neutral
+C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster JS Template\App Monster JS Template.jsproj;neutral

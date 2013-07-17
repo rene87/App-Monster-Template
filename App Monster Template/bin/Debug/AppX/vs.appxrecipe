@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\App Monster Template.exe">
       <PackagePath>App Monster Template.exe</PackagePath>
-      <Modified>2013-07-17T09:06:24.479</Modified>
+      <Modified>2013-07-17T17:15:27.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster Template\bin\Debug\App Monster Template.pdb">
       <PackagePath>App Monster Template.pdb</PackagePath>
-      <Modified>2013-07-17T09:06:24.448</Modified>
+      <Modified>2013-07-17T17:15:27.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\malantin\Documents\Visual Studio 2012\Projects\App Monster Template\App Monster Template\Components\AppMonsters.winmd">
       <PackagePath>AppMonsters.winmd</PackagePath>
