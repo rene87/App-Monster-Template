@@ -1,0 +1,15 @@
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\resources.pri
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\AppxManifest.xml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\App Monster JS Template.build.appxrecipe
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\priconfig.xml.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\layout.resfiles.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\resources.resfiles.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\pri.resfiles.intermediate
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\priconfig.xml
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\layout.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\resources.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\pri.resfiles
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\LanguageQualifiers.txt
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\ProjectArchitectures.txt
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bin\Debug\AppMonsters.winmd
+C:\Users\malantin\documents\visual studio 2012\Projects\App Monster Template\App Monster JS Template\bld\Debug\App Monster JS Template.jsprojResolveAssemblyReference.cache
