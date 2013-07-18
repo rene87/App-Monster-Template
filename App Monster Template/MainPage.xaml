@@ -152,6 +152,8 @@
             <Grid>
                 <!--You can find the  styles for the AppBar Buttons in the /Common/StandardStyles.xaml document. Unused styles should be commented out.
 
+                This are examples for AppBar Buttons
+
                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
                     <Button Style="{StaticResource EditAppBarButtonStyle}" />
                 </StackPanel>-->
